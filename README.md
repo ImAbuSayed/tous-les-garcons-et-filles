@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tous-les-garcons-et-filles/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Tous Les Garçons Et Filles](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tous-les-garcons-et-filles/) |
+| **Get License** | [License this song: Tous Les Garçons Et Filles](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tous-les-garcons-et-filles/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Regarde-moi bien dans les yeux, the night is ours
+> Tous les garçons et filles sont dans la danse
+> On glisse sous les néons, losing track of hours
+> Mais y'a que toi qui me met dans une telle transe
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
