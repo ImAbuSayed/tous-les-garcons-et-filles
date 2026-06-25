@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tous Les Garçons Et Filles
+
+This log tracks the cryptographic history and versioning for the song **Tous Les Garçons Et Filles** (tous-les-garcons-et-filles).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-25T12:15:27.842136 | `v1` | `aa75bdd0f476ef9e774b9806e80e312c450c050aa57be81c88be67aee015df86` | `f556fd8d23794452e0effb11391b6881dc72e01b0e955e23539111c5e1e4aa8d` | `2026-06-25_tous-les-garcons-et-filles-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

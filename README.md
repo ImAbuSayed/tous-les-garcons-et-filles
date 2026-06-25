@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tous-les-garcons-et-filles/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Tous Les Garçons Et Filles](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tous-les-garcons-et-filles/) |
+| **Get License** | [Official Music Licensing for Tous Les Garçons Et Filles](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tous-les-garcons-et-filles/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `aa75bdd0f476ef9e774b9806e80e312c450c050aa57be81c88be67aee015df86` |
 | **Timestamp** | June 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
